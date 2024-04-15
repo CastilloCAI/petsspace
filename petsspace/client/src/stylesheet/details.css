@@ -1,0 +1,41 @@
+/*
+.details__pet {
+  padding: 20px !important;
+  border: 3px solid #000;
+}
+
+.details__pet > div {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+}
+
+.details__pet > div h2 {
+  font-size: 2.5rem;
+}
+
+.container__btn {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+}
+
+.container__btn > button {
+  padding: 20px;
+  background-color: green;
+  width: 300px;
+}
+
+.div-detail {
+  display: flex;
+  justify-content: space-between;
+}
+.div-detail > button {
+  padding: 20px;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  width: 300px;
+}
+  */

@@ -1,0 +1,56 @@
+/* .main-form {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  width: 100%;
+  border: black 1px solid;
+  padding: 20px;
+}
+
+.div-form {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+  gap: 20px;
+  padding: 20px;
+}
+
+.div-form  > form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  width: 100%;
+}
+
+.div-form > form input{
+  width: calc(100% - 20px);
+  padding: 10px;
+}
+
+.div-skills {
+  width: 50%;
+  height: 100%;
+}
+
+.div-skills > div {
+  display: flex;
+  flex-direction: column;
+}
+
+.btn-submit {
+  background-color: blue;
+  width: 100%;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.input {
+  width: 80%;
+  height: 250px;
+} */

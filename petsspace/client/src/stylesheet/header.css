@@ -1,0 +1,27 @@
+/* h1 {
+  padding: 9px;
+  width: 100%;
+  text-align: start;
+  font-size: 3rem;
+}
+
+.header{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.contenedor_btn {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 30px;
+}
+
+.contenedor_btn > button{
+  border: none;
+  background: none;
+  color: blue;
+  text-decoration: underline;
+  font-size: 1.5rem;
+} */
